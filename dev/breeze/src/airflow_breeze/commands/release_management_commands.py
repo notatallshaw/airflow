@@ -263,7 +263,7 @@ class VersionedFile(NamedTuple):
     file_name: str
 
 
-AIRFLOW_PIP_VERSION = "26.0.1"
+AIRFLOW_PIP_VERSION = "26.1"
 AIRFLOW_UV_VERSION = "0.11.7"
 AIRFLOW_USE_UV = False
 GITPYTHON_VERSION = "3.1.46"
